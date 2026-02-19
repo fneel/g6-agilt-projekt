@@ -33,9 +33,9 @@ Datum: 18/2-26
    Alla gruppmedlemmar förbinder sig att följa detta dokument.
    ⸻
 2. Verktyg
-   • Versionshanteringssystem: ********\_\_******** (ex. Git)
-   • Repository-plattform: ********\_\_******** (ex. GitHub/GitLab/Azure DevOps)
-   • Kommunikationskanal vid konflikter: ********\_\_********
+   • Versionshanteringssystem: **\*\*\*\***\_\_**\*\*\*\*** (ex. Git)
+   • Repository-plattform: **\*\*\*\***\_\_**\*\*\*\*** (ex. GitHub/GitLab/Azure DevOps)
+   • Kommunikationskanal vid konflikter: **\*\*\*\***\_\_**\*\*\*\***
    ⸻
 3. Branch-struktur
    Vi använder följande branch-struktur:
@@ -122,3 +122,4 @@ Datum: 18/2-26
 17. Signaturer
     Genom att skriva under godkänner vi att följa detta kontrakt.
     Namn Signatur Datum
+    FredrikN fnelin 20260219
